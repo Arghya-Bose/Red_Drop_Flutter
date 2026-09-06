@@ -1,16 +1,24 @@
-# blood
+# Red Drop
 
-A new Flutter project.
+Red Drop is a Flutter-based blood donation and support app focused on helping people find blood donors in Dhaka, Bangladesh.
 
-## Getting Started
+The app will allow users to find donors by blood group and location, create blood requests, and connect with people who need or can donate blood.
 
-This project is a starting point for a Flutter application.
+AI and Machine Learning features are planned to support smart donor matching and blood request recommendations.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Flutter
+* Dart
+* Firebase
+* REST API
+* AI/ML
+* Location Services
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Status
+
+Under Development
+
+## Goal
+
+To make finding blood donors faster, easier, and more accessible in Dhaka.
